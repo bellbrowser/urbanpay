@@ -1,0 +1,4 @@
+Flask
+gunicorn
+requests
+git+git://github.com/cyberboysumanjay/qrcode
